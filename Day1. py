@@ -1,0 +1,4 @@
+# Paul Joven - Day 1 - My comeback to python 
+name = "Paul Joven"
+print(f"My name is {name}" )
+print( f"Day 1: Back to Python on my phone!" )
